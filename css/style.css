@@ -136,8 +136,7 @@ header.fixed .logo {
   }
 
 }
-
-@media (max-width: 406px) {
+@media (max-width: 600px) {
   .top {
     font-size: 1.5em;
     padding-top: 40%; 
