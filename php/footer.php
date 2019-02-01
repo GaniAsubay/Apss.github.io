@@ -1,4 +1,5 @@
-		<div class="footer">
+<?php		
+<div class="footer">
 				<div class="footer-item1">
 					<h2>About Jetro</h2>
 					<p>Lorem ipsum dolor sit amet, malorum recteque reprehendunt ea vel. Urbanitas adolescens vim te, per at tritani aperiri. Adhuc invenire convenire his ea. Id mei vitae denique, in eam commodo veritus disputando.</p> <p>Pro et erant delicata, eu vim essent imperdiet accommodare, dictas deseruisse ius an. Solet everti definitionem id ius, sonet oporteat cu vim.</p>
@@ -20,3 +21,4 @@
 				</div>
 			</div>
 		</div>
+						?>
