@@ -1,4 +1,4 @@
-<?php		
+	
 <div class="footer">
 				<div class="footer-item1">
 					<h2>About Jetro</h2>
@@ -21,4 +21,3 @@
 				</div>
 			</div>
 		</div>
-						?>
